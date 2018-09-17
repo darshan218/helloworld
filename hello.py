@@ -6,6 +6,7 @@ print('Hello, world!')
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 print('Hello, world!')
 print('Hello, world!')
 print('Hello, world!')
@@ -21,3 +22,7 @@ print('33Hello, world!')
 =======
 print('new, change')
 >>>>>>> 56f6313... change
+=======
+print('new, change')
+
+>>>>>>> 0d0a511... cherryp
