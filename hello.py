@@ -5,6 +5,7 @@ print('...!!!...')
 print('Hello, world!')
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 print('Hello, world!')
 print('Hello, world!')
 print('Hello, world!')
@@ -17,3 +18,6 @@ print('33Hello, world!')
 =======
 print('33Hello, world!')
 >>>>>>> 783a88c... new cp
+=======
+print('new, change')
+>>>>>>> 56f6313... change
